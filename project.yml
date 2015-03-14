@@ -1,0 +1,8 @@
+Title:
+Kojin
+Description:
+"A website/application for the distribution and rating of fictional characters written in Python and SQL (With a bit of HTML as well)."
+Dependencies:
+ - Python, http://www.python.org/, Python Software Foundation License.
+ - MySQL, http://www.mysql.com/, GNU General Public License.
+ - Pyjamas, http://pyjs.org/, Apache License 2.0
